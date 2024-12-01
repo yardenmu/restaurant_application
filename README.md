@@ -25,3 +25,8 @@ Welcome to the **Pizza and Pasta Restaurant** app! This is my first Android proj
 
   ## 📸 Screenshots
   ![image alt](https://github.com/yardenmu/restaurant_application/blob/main/Mobile%20App.png?raw=true)
+
+  ## 🎬 Demo Video
+  Check out the demo video of the app to see how it works in action.
+  
+  [Watch the Video](https://drive.google.com/file/d/1_qDANBLyFsY0KhYSi_ZlSsE8bGydhsH_/view?usp=drive_link)
