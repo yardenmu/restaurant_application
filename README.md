@@ -24,4 +24,4 @@ Welcome to the **Pizza and Pasta Restaurant** app! This is my first Android proj
 - **Interactive components**, such as buttons, spinners, checkboxes, and radio buttons, allow users to select options and interact with the app.
 
   ## 📸 Screenshots
-  
+  ![image alt](https://github.com/yardenmu/restaurant_application/blob/main/Mobile%20App.png?raw=true)
