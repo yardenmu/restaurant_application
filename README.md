@@ -4,18 +4,18 @@ Welcome to the **Pizza and Pasta Restaurant** app! This is my first Android proj
 
 ## 🌟 Features
 
-- **🍕 Menu Display**: View the full menu of pizza and pasta dishes available at the restaurant.
-- **📅 Table Reservation**: Reserve a table for a specific date and time.
-- **🔄 Animations**: Smooth transitions and interactive effects to enhance the user experience.
-- **🖥 UI Design**: A clean, simple, and intuitive layout with multiple screens.
-- **🔘 Interactive Components**: Buttons, spinners, checkboxes, radio buttons, and other interactive UI elements for a dynamic and engaging interface.
-- **🌍 Multi-language Support**: The app supports both **English** and **Hebrew** for a wider user base.
+- **Menu Display**: View the full menu of pizza and pasta dishes available at the restaurant.
+- **Table Reservation**: Reserve a table for a specific date and time.
+- **Animations**: Smooth transitions and interactive effects to enhance the user experience.
+- **UI Design**: A clean, simple, and intuitive layout with multiple screens.
+- **Interactive Components**: Buttons, spinners, checkboxes, radio buttons, and other interactive UI elements for a dynamic and engaging interface.
+- **Multi-language Support**: The app supports both **English** and **Hebrew** for a wider user base.
 
 ## 🛠 Tools and Technologies
 
-- **📝 Programming Language**: Kotlin
-- **📱 UI Design**: XML
-- **⚙️ Development Environment**: Android Studio
+- **Programming Language**: Kotlin
+- **UI Design**: XML
+- **Development Environment**: Android Studio
 
   ## 🧑‍🍳 How It Works
 
