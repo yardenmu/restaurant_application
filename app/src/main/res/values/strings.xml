@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">yarden_mugany</string>
+    <string name="pizza_margarita">Pizza Margarita</string>
+    <string name="margarita_description">fresh tomato sauce, mozzarella cheese, and a sprinkle of basil.</string>
+    <string name="margarita_price">30.00₪</string>
+    <string name="pizza_olives">Pizza olives</string>
+    <string name="olives_price">35.00₪</string>
+    <string name="coca_cola">Coca Cola</string>
+    <string name="coca_description">Available in Regular, Zero, and Pepsi.</string>
+    <string name="coca_price">8.00₪</string>
+    <string name="seven_up">Seven Up</string>
+    <string name="seven_up_description">A refreshing lemon-lime flavored soda.</string>
+    <string name="seven_up_price">7.00₪</string>
+    <string name="mushroom_cream_pasta">Mushroom Cream Pasta</string>
+    <string name="mushroom_price">50.00₪</string>
+    <string name="tomato_description">Pasta in a classic tomato sauce with fresh herbs and a savory touch.</string>
+    <string name="tomato_price">45.00₪</string>
+    <string name="pizza_and_pasta">Pizza &amp; Pasta</string>
+    <string name="menu">🍕 MENU</string>
+    <string name="reserve_a_table">Reserve a Table</string>
+    <string name="restaurant_logo">restaurant logo</string>
+    <string name="make_a_reservation">Make a Reservation</string>
+    <string name="select_seats">Select Number of Seats:</string>
+    <string name="name_for_the_reservation">Enter The Name For The Reservation:</string>
+    <string name="full_name">Full Name</string>
+    <string name="special_requests">Special Requests:</string>
+    <string name="vegan">Vegan</string>
+    <string name="no_vegan">No Vegan</string>
+    <string name="payment_method">Select Payment Method:</string>
+    <string name="reservation_time">Select Reservation Time:</string>
+    <string name="select_date">Select Date and Time</string>
+    <string name="reserve_sits">Reserve Sits</string>
+    <string name="your_reservation">Your Reservation</string>
+    <string name="confirm_table">Confirm</string>
+    <string name="exit">Exit</string>
+    <string name="c_name">Name:</string>
+    <string name="c_guests">Number of Guests:</string>
+    <string name="c_special_request">Special Request:</string>
+    <string name="c_payment_preference">Payment Preference:</string>
+    <string name="c_date">Date:</string>
+    <string name="c_time">Time:</string>
+
+    <string-array name="payment_methods">
+        <item>Credit</item>
+        <item>Cash</item>
+        <item>Bit</item>
+    </string-array>
+    <string name="olives_description">Olives, cherry tomatoes, feta cubes, and basil topped with melted mozzarella.</string>
+    <string name="mushroom_description">Pasta in a creamy mushroom sauce, rich and full of flavor.</string>
+    <string name="tomato_pasta">Tomato Pasta</string>
+    <string name="enter_name">Invalid input</string>
+    <string name="please_select_special_request">Please select special request</string>
+    <string name="please_select_a_date">Please select a date</string>
+    <string name="show_vegan_menu">Vegan option available</string>
+    <string name="select_a_past_time">You cannot select a past time.</string>
+    <string name="choose_time">Choose Time</string>
+    <string name="yes">Yes</string>
+    <string name="thanks_order">Your order has been successfully placed.\nThank you for choosing us!</string>
+    <string name="vegan_leaf_icon">Vegan leaf icon</string>
+    <string name="back_to_main_screen">back to main screen</string>
+    <string name="green_circle">green circle</string>
+    <string name="v_shape">v shape</string>
+</resources>

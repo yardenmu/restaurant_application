@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">yarden_mugany</string>
+    <string name="pizza_margarita">פיצה מרגריטה</string>
+    <string name="margarita_description">רוטב עגבניות טרי, גבינת מוצרלה ובזיליקום.</string>
+    <string name="margarita_price">30.00₪</string>
+    <string name="pizza_olives">פיצה זיתים</string>
+    <string name="olives_description">זיתים, עגבניות שרי, קוביות פטה ובזיליקום עם גבינת מוצרלה.</string>
+    <string name="olives_price">35.00₪</string>
+    <string name="coca_cola">קוקה קולה</string>
+    <string name="coca_description">זמין בגרסה רגילה, זירו ופסי.</string>
+    <string name="coca_price">8.00₪</string>
+    <string name="seven_up">סבן אפ</string>
+    <string name="seven_up_description">סודה בטעם לימון-ליים.</string>
+    <string name="seven_up_price">7.00₪</string>
+    <string name="mushroom_cream_pasta">פסטה ברוטב שמנת פטריות</string>
+    <string name="mushroom_description">פסטה ברוטב שמנת פטריות, עשיר ומלא בטעם.</string>
+    <string name="mushroom_price">50.00₪</string>
+    <string name="tomato_pasta">פסטה ברוטב עגבניות</string>
+    <string name="tomato_description">פסטה ברוטב עגבניות קלאסי עם עשבי תיבול טריים.</string>
+    <string name="tomato_price">45.00₪</string>
+    <string name="pizza_and_pasta">Pizza &amp; Pasta</string>
+    <string name="menu">🍕 תפריט</string>
+    <string name="reserve_a_table">הזמן שולחן</string>
+    <string name="restaurant_logo">restaurant logo</string>
+    <string name="make_a_reservation">הזמנת שולחן</string>
+    <string name="select_seats">בחר מספר מקומות:</string>
+    <string name="name_for_the_reservation">הזן את השם עבור ההזמנה:</string>
+    <string name="full_name">שם מלא</string>
+    <string name="special_requests">בקשות מיוחדות:</string>
+    <string name="vegan">טבעוני</string>
+    <string name="no_vegan">לא טבעוני</string>
+    <string name="payment_method">בחר אופן תשלום:</string>
+    <string name="reservation_time">בחר תאריך ושעה:</string>
+    <string name="select_date">בחר תאריך ושעה</string>
+    <string name="reserve_sits">הזמן מקומות</string>
+    <string name="your_reservation">ההזמנה שלך</string>
+    <string name="confirm_table">אשר</string>
+    <string name="exit">יציאה</string>
+    <string name="c_name">שם:</string>
+    <string name="c_guests">מספר מוזמנים:</string>
+    <string name="c_special_request">בקשות מיוחדות:</string>
+    <string name="c_payment_preference">תשלום:</string>
+    <string name="c_date">תאריך:</string>
+    <string name="c_time">שעה:</string>
+    <string-array name="payment_methods">
+        <item>אשראי</item>
+        <item>מזומן</item>
+        <item>ביט</item>
+    </string-array>
+    <string name="enter_name">שם לא חוקי</string>
+    <string name="please_select_special_request">אנא סמן בקשה מיוחדת</string>
+    <string name="please_select_a_date">אנא בחר תאריך ושעה</string>
+    <string name="show_vegan_menu">מנות מותאמות לטבעונים</string>
+    <string name="select_a_past_time">לא ניתן לבחור שעה שעברה</string>
+    <string name="choose_time">בחר זמן</string>
+    <string name="yes">אישור</string>
+    <string name="thanks_order">ההזמנה בוצעה בהצלחה.\nתודה שבחרת בנו!</string>
+    <string name="vegan_leaf_icon">סמל עלה טבעוני</string>
+    <string name="back_to_main_screen">חזרה למסך הראשי</string>
+    <string name="green_circle">עיגול ירוק</string>
+    <string name="v_shape">צורת v</string>
+</resources>
